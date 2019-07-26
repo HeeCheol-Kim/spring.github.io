@@ -1,2 +1,2 @@
-# spring.github.io
-personal studies about spring framework with target subjects
+# dogfoots.github.io
+personal studies
